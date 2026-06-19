@@ -14,7 +14,7 @@
             "kind": "NRT",
             "apiVersion": "2023-12-01-preview",
             "properties": {
-                "displayName": "NRT User Risk Event detected - High",
+                "displayName": "NRT User Risk Event detected",
                 "description": "'This alert detects when there is a new High risk event detected",
                 "severity": "High",
                 "enabled": true,
